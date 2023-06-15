@@ -27,7 +27,7 @@ To obtain a high level view of the perfomance of the organization, we provide an
 * Targets namely revenue, refund rate and orders
 
 <p align="center">
-  <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Adventure%20Works/Documentation%20Illustrations/AW_Executive_summary.png" alt="Adventure Works Executive Summary">
+  <img width="1200" src="https://github.com/EslamElassal/-Microsoft-Power-BI-Desktop-for-Business-Intelligence-Udemy-Paid-Course/blob/main/Documentation%20Illustrations/AW_Executive_summary.png" alt="Adventure Works Executive Summary">
 </p>
 
 ## Customer Detail
@@ -39,7 +39,7 @@ A granular look on the customers can also be obtained with an analysis performed
 * Orders and revenue by month
 
 <p align="center">
-  <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Adventure%20Works/Documentation%20Illustrations/AW_customer_detail.png" alt="Adventure Works Customer Detail">
+  <img width="1200" src="https://github.com/EslamElassal/-Microsoft-Power-BI-Desktop-for-Business-Intelligence-Udemy-Paid-Course/blob/main/Documentation%20Illustrations/AW_customer_detail.png" alt="Adventure Works Customer Detail">
 </p>
 
 ## Product Summary
@@ -55,7 +55,7 @@ A summary of the product details includes:
 * Chart indicating week to week refunds
 
 <p align="center">
-  <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Adventure%20Works/Documentation%20Illustrations/AW_Product_summary.png" alt="Adventure Works Product Summary">
+  <img width="1200" src="https://github.com/EslamElassal/-Microsoft-Power-BI-Desktop-for-Business-Intelligence-Udemy-Paid-Course/blob/main/Documentation%20Illustrations/AW_Product_summary.png" alt="Adventure Works Product Summary">
 </p>
 
 ## Order Summary
@@ -63,5 +63,5 @@ A summary of the product details includes:
 This page indicates the details of order quantities and their contribution to revenue
 
 <p align="center">
-  <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Adventure%20Works/Documentation%20Illustrations/AW_Order_summary.png" alt="Adventure Works Order Summary">
+  <img width="1200" src="https://github.com/EslamElassal/-Microsoft-Power-BI-Desktop-for-Business-Intelligence-Udemy-Paid-Course/blob/main/Documentation%20Illustrations/AW_Order_summary.png" alt="Adventure Works Order Summary">
 </p>
